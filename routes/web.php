@@ -11,6 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//front routes
+
+Route::get('/', 'HomeController@index')->name('front.home');
+Route::get('/o-meni', 'AboutController@index')->name('front.about');
+Route::get('/galerija', 'GalleryController@index')->name('front.gallery');
+Route::get('/kontakt', 'ContactController@index')->name('front.contact');
