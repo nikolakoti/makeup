@@ -6,6 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
         <link rel="shortcut icon" href="{{url('/skins/front/images/logo/logo.jpg')}}" type="image/x-icon"/>  <!-- LOGO BROWSER TAB -->
         <link href="{{url('/skins/front/css/open-iconic-bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/animate.css')}}" rel="stylesheet" type="text/css"/>
@@ -21,6 +22,12 @@
         <link href="{{url('/skins/front/css/style.css')}}" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
         <link href="{{url('/skins/front/css/footer/Footer-with-button-logo.css')}}" rel="stylesheet" type="text/css"/>
+        <style>
+            .mycolor
+            {
+            color:rgba(0,0,0,0.7);
+            }
+        </style>
     </head>
     <body>
 

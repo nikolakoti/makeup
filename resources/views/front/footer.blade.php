@@ -1,29 +1,21 @@
 <footer id="myFooter">
     <div class="container">
         <div class="row">
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                <h2 class="logo">
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 pt-4" > 
                     <a href="{{route('front.home')}}"> 
-                        <img class="img-responsive" src="{{url('/skins/front/images/logo/logo.jpg')}}" alt="logo"/> 
+                        <img style="max-width:75%" class="img-fluid rounded" src="{{url('/skins/front/images/logo/logo.jpg')}}" alt="logo"/> 
                     </a>
-                </h2>
             </div>
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                <h5><i>~ Šminkanje je umetnost, a vi ste platno ~</i></h5>
-                <ul>
-                    <li><a href="{{route('front.gallery')}}">Galerija</a></li>
-                    <li><a href="{{route('front.about')}}">O meni</a></li>
-                </ul>
-            </div>
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 pt-4">
                 <h5>Kontakt</h5>
-                <ul>
-                    <li><a href="mailto:whiterabbitmakeupartist@gmail.com">whiterabbitmakeupartist@gmail.com</a></li>
-                    <li><a href="tel:0692354303">069 2354303</a></li>
-                </ul>
+                
+                    <p><a href="mailto:kontakt@whiterabbitmakeup.com">kontakt@whiterabbitmakeup.com</p>
+                    <p><a href="tel:0692354303">069 2354303</p>
+               
             </div>
 
-            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <div class="social-networks">
                     <a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank" class="twitter"><i class="fa fa-instagram"></i></a>
                     <a href="https://www.facebook.com/whiterabbitmakeup/?modal=admin_todo_tour" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>                     

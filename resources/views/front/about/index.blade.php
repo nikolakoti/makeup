@@ -17,7 +17,7 @@
         <div class="d-flex">
             <div class="author-image text img p-md-5 ftco-animate" style="background-image: url({{url('/skins/front/images/author.jpg')}});">
             </div>
-            <div class="author-info text p-4 mt-5 mb-5 ftco-animate">
+            <div class="author-info text p-4 mt-5 mb-5 ftco-animate mycolor">
                 <div class="desc">
                     <p class="mb-4">Zovem se <strong>Milica Kaljević</strong> i živim u Novom Sadu.</p>
                     <p class="mb-4">Na svom umetničkom putu, dugom 21 godinu, od srednje škole za dizajn do Akademije umetnosti, konačni i pravi izraz pronalazim u lepoti lica i šminkanju. Uživajući u beskrajnoj igri sa bojama, anatomijom i iluzijom u isticanju lepog koristeći sve prednosti koje nam šminka pruža.

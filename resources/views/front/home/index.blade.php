@@ -14,8 +14,6 @@
             <div class="carousel-item active" style="background-image: url({{url('/skins/front/images/carousel/car1.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
                     <h2 class="display-4">DOBRODOŠLI !</h2>
-
-                    <p class="lead">Pitajte nas ili zakažite željeni termin <a href="contact.html"><u>ovde.</u></a></p>
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
@@ -47,42 +45,42 @@
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_1.jpg')}});">
+                <a href="{{url('/skins/front/images/image_1.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_1.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_2.jpg')}});">
+                <a href="{{url('/skins/front/images/image_2.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_2.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_3.jpg')}});">
+                <a href="{{url('/skins/front/images/image_3.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_3.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_4.jpg')}});">
+                <a href="{{url('/skins/front/images/image_4.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_4.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_5.jpg')}});">
+                <a href="{{url('/skins/front/images/image_5.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_5.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_6.jpg')}});">
+                <a href="{{url('/skins/front/images/image_6.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_6.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>

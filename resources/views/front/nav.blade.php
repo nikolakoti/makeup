@@ -1,8 +1,8 @@
 <aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
     <h1 id="colorlib-logo">
         <a href="{{route('front.home')}}">
-            <span class="flaticon-camera"></span>
-            White rabbit make up
+        <img style="max-width:110%" class="img-fluid rounded" src="{{url('/skins/front/images/logo/logo.jpg')}}" alt="logo"/>
+            
         </a>
     </h1>
     <nav id="colorlib-main-menu" role="navigation">
