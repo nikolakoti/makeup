@@ -41,10 +41,10 @@
                         <input type="number" class="form-control" placeholder="Broj telefona">
                     </div>							
                     <div class="form-group">
-                        <input type="input" class="form-control datepicker" placeholder="Željeni termin">																	
+                        <input type="input" class="form-control datepicker" placeholder="Željeni termin (datum)">																	
                     </div>
                     <div class="form-group">
-                        <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Poruka"></textarea>
+                        <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Poruka (predložite satnicu kada Vam odgovara termin za šminkanje)"></textarea>
                     </div>
                     <div class="form-group">
                         <input type="submit" value="Pošalji poruku" class="btn btn-primary py-3 px-5">
