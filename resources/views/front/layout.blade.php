@@ -28,6 +28,7 @@
             color:rgba(0,0,0,0.7);
             }
         </style>
+        @stack('header_css')
     </head>
     <body>
 
@@ -64,8 +65,9 @@
         <script src="{{url('/skins/front/js/aos.js')}}" type="text/javascript"></script>
         <script src="{{url('/skins/front/js/jquery.animateNumber.min.js')}}" type="text/javascript"></script>
         <script src="{{url('/skins/front/js/bootstrap-datepicker.js')}}" type="text/javascript"></script>
-        <script src="js/jquery.timepicker.min.js"></script>
+<!--        <script src="{{url('/skins/front/js/jquery.timepicker.min.js')}}"></script>-->
         <script src="{{url('/skins/front/js/scrollax.min.js')}}" type="text/javascript"></script>
         <script src="{{url('/skins/front/js/main.js')}}" type="text/javascript"></script>
+        @stack('footer_javascript')
     </body>
 </html>

@@ -3,7 +3,7 @@
 @section('content')
 <style>
     body {
-    background-image: url({{url('/skins/front/images/back_contact.jpg')}});
+        background-image: url({{url('/skins/front/images/back_contact.jpg')}});
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -30,24 +30,25 @@
             </div>
             <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-xs-12 order-md-last offset-lg-3 offset-md-2">
 
-                <form action="#" class="bg-light p-5 contact-form">
+                <form action="" class="bg-light p-5 contact-form" method="POST" id="contact-form">
+                    @csrf
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Ime">
+                        <input type="text" class="form-control" placeholder="Ime" name="name" id="name">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Vaša mejl adresa">
+                        <input type="text" class="form-control" placeholder="Vaša mejl adresa" name="email" id="email">
                     </div>
                     <div class="form-group">
-                        <input type="number" class="form-control" placeholder="Broj telefona">
+                        <input type="text" class="form-control" placeholder="Broj telefona" id="phone" name="phone">
                     </div>							
                     <div class="form-group">
-                        <input type="input" class="form-control datepicker" placeholder="Željeni termin (datum)">																	
+                        <input type="text" class="form-control datepicker" placeholder="Željeni termin (datum)" name="date" id="date">																	
                     </div>
                     <div class="form-group">
-                        <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Poruka (predložite satnicu kada Vam odgovara termin za šminkanje)"></textarea>
+                        <textarea name="message" id="message" cols="30" rows="7" class="form-control" placeholder="Poruka (predložite satnicu kada Vam odgovara termin za šminkanje)"></textarea>
                     </div>
                     <div class="form-group">
-                        <input type="submit" value="Pošalji poruku" class="btn btn-primary py-3 px-5">
+                        <input type="submit" value="Pošalji poruku" class="btn btn-primary py-3 px-5 col-xs-12 col-sm-12 col-md-6" data-action="submit">
                     </div>
                 </form>
             </div>
@@ -55,4 +56,12 @@
     </div>
 </section>
 @endsection
+
+@push('footer_javascript')
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script type="text/javascript">
+    var ajax = '{{route("front.contact.process")}}';
+</script>
+<script src="{{url('/skins/front/js/custom.js')}}" type="text/javascript"></script>
+@endpush
 
