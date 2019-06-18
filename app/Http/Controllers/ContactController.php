@@ -18,18 +18,16 @@ class ContactController extends Controller {
         $validator = \Validator::make($request->all(), [
                     'name' => 'required',
                     'email' => 'required|email',
-                    'phone' => 'required',
+                    'phone' => 'required|numeric',
                     'date' => 'required',
                     'message' => 'required'
         ]);
 
         if ($validator->fails()) {
 
-            //sleep(2);
             return response()->json(['errors' => true, 'messages' => $validator->errors()->all()]);
         }
-        //sleep(2);
-        return response()->json(['success' => 'Uspesno ste poslali poruku']);
+        return response()->json(['success' => 'Uspešno ste poslali poruku']);
     }
 
 }

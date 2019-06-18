@@ -127,10 +127,11 @@ return [
      */
     'custom' => [
         'email' => [
-            'required' => 'Unesite svoju e-mail adresu',
             'email' => 'Unesite validnu e-mail adresu'
         ],
-        
+        'phone' => [
+            'numeric' => 'Unesite cifre za broj telefona'
+        ]
     ],
     /*
       |--------------------------------------------------------------------------

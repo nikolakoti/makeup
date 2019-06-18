@@ -30,36 +30,73 @@ $(document).ready(function () {
             });
         } else {
 
-            $.ajax({
+            swal({
+                icon: "info",
+                buttons: false,
+                text: 'Vaša poruka se šalje'
 
-                'type': 'POST',
-                'url': ajax,
-                'data': data
-            }).done(function (response) {
+            });
 
-                if (response.errors === true) {
+            var swalModal = $('.swal-modal');
 
-                    for (var i in response.messages) {
+            var loader = '<img class="img-fluid swal-text" src="/skins/front/images/ajax-loader.gif" alt="loader" style="margin-top:2px; margin-left:-14px;"/>';
 
-                        var errorMsg = response.messages[i];
-                       
+            swalModal.find('.swal-text').after(loader);
+
+            setTimeout(function () {
+
+                $.ajax({
+
+                    'type': 'POST',
+                    'url': ajax,
+                    'data': data
+                }).done(function (response) {
+
+                    if (response.errors === true) {
+
+                        for (var i in response.messages) {
+
+                            var errorMsg = response.messages[i];
+
+                            if (response.messages.length > 1) {
+                                
+                                 swal({
+                                    icon: "warning",
+                                    buttons: false,
+                                    text: response.messages[0],
+                                    timer: 2000
+                                });
+                                
+                                swalModal.find('.swal-text').after('<div class="swal-text" style="padding-top:5px;">'+ response.messages[1] +'</div>');
+
+                            } else {
+
+                                swal({
+                                    icon: "warning",
+                                    buttons: false,
+                                    text: errorMsg,
+                                    timer: 2000
+                                });
+                            }
+
+
+                        }
+                    } else {
+
                         swal({
-                            icon: "warning",
+                            icon: "success",
                             buttons: false,
-                            text: errorMsg,
+                            text: response.success,
                             timer: 2000
                         });
-                    }
-                } else {
 
-                    swal({
-                        icon: "success",
-                        buttons: false,
-                        text: response.success,
-                        timer: 2000
-                    });
-                }
-            });
+                        contactForm[0].reset();
+                    }
+                });
+
+            }, 3000);
+
+
         }
     });
 });
