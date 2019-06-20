@@ -4,10 +4,11 @@
         <title>White rabbit make up</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
-        <link rel="shortcut icon" href="{{url('/skins/front/images/logo/logo.jpg')}}" type="image/x-icon"/>  <!-- LOGO BROWSER TAB -->
+        <link rel="shortcut icon" href="{{url('/skins/front/images/logo/logo_icon.jpg')}}" type="image/x-icon"/>  <!-- LOGO BROWSER TAB -->
         <link href="{{url('/skins/front/css/open-iconic-bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/animate.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/owl.carousel.min.css')}}" rel="stylesheet" type="text/css"/>
