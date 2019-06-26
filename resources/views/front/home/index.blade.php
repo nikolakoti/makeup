@@ -13,21 +13,21 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" style="background-image: url({{url('/skins/front/images/carousel/car1.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="display-4">DOBRODOŠLI !</h2>
+                    <!--<h2 class="display-4"></h2>-->
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
             <div class="carousel-item" style="background-image: url({{url('/skins/front/images/carousel/car2.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="display-4">Second Slide</h2>
-                    <p class="lead">This is a description for the second slide.</p>
+                    <!--<h2 class="display-4">Second Slide</h2>
+                    <p class="lead">This is a description for the second slide.</p>-->
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
             <div class="carousel-item" style="background-image: url({{url('/skins/front/images/carousel/car3.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2 class="display-4">Third Slide</h2>
-                    <p class="lead">This is a description for the third slide.</p>
+                    <!--<h2 class="display-4">Third Slide</h2>
+                    <p class="lead">This is a description for the third slide.</p>-->
                 </div>
             </div>
         </div>
