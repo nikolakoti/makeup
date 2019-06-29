@@ -54,6 +54,27 @@
                     </div>
                 </a>
             </div>
+            <div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_7.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_7.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_8.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_8.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_9.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_9.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>

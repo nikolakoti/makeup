@@ -25,7 +25,7 @@
                 <div class="bg-light p-5 mycolor">
                     <p><span><i class="material-icons">location_on</i></span>&emsp;<a>Bulevar Oslobođenja 66b/64, Novi Sad</a>&emsp;</p>
                     <p><span><i class="material-icons">phone_android</i></span>&emsp;<a href="tel:0692354303" style="color:rgb(0,0,0,0.7)">069 2354303</a></p>
-                    <p><span><i class="material-icons">email</i></span>&emsp;<a href="mailto:kontakt@whiterabbitmakeup.com" style="color:rgb(0,0,0,0.7)">kontakt@whiterabbitmakeup.com</a></p>
+                    <p><span><i class="material-icons">email</i></span>&emsp;<a href="mailto:kontakt@whiterabbitmakeup.rs" style="color:rgb(0,0,0,0.7)">kontakt@whiterabbitmakeup.rs</a></p>
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-xs-12 order-md-last offset-lg-3 offset-md-2">
