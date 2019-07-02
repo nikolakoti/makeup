@@ -9,10 +9,8 @@
             
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 pt-4">
                 <h5>Kontakt</h5>
-                
-                    <p><a href="mailto:kontakt@whiterabbitmakeup.com">kontakt@whiterabbitmakeup.com</p>
-                    <p><a href="tel:0692354303">069 2354303</p>
-               
+                    <p><a href="mailto:kontakt@whiterabbitmakeup.rs">kontakt@whiterabbitmakeup.rs</a></p>
+                    <p><span><i class="material-icons">phone_android</i></span>&emsp;<a href="tel:0692354303">069 2354303</a></p>
             </div>
 
             <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12">

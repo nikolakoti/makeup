@@ -21,7 +21,7 @@
         <link href="{{url('/skins/front/css/flaticon.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/icomoon.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/style.css')}}" rel="stylesheet" type="text/css"/>
-        <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
         <link href="{{url('/skins/front/css/footer/Footer-with-button-logo.css')}}" rel="stylesheet" type="text/css"/>
         <style>
             .mycolor

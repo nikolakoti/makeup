@@ -35,7 +35,7 @@ class ContactController extends Controller {
         
         $formData = $request->all();
         
-        Mail::to('nikolakaljevic@gmail.com')->send(new ContactForm([
+        Mail::to('kontakt@whiterabbitmakeup.rs')->send(new ContactForm([
             
             'name' => $formData['name'],
             'email' => $formData['email'],
