@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{app()->getLocale()}}">
     <head>
-        <title>White rabbit make up</title>
+        <title>Profesionalno šminkanje Novi Sad | White rabbit makeup</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        
+        <meta name="description" content="Profesionalno šminkanje Novi Sad White rabbit makeup šminka najboljih svetskih brendova koja nije testirana na životinjama" />
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">

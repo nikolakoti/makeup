@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Laravel-makeup</title>
+        <meta name="description" content="Profesionalno šminkanje Novi Sad White rabbit makeup šminka najboljih svetskih brendova koja nije testirana na životinjama" />
+        <title>Profesionalno šminkanje Novi Sad | White rabbit makeup</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">

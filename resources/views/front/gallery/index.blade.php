@@ -75,6 +75,41 @@
                     </div>
                 </a>
             </div>
+            <div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_10.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_10.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+			<div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_11.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_11.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+			<div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_12.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_12.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+			<div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_13.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_13.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+			<div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/image_14.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_14.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </section>
