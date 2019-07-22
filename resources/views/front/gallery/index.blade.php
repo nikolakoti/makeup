@@ -15,40 +15,42 @@
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_1.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_1.jpg')}});">
-                    <div class="overlay"></div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_2.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_2.jpg')}});">
+            <a href="{{url('/skins/front/images/sminkanje_novi_sad_kozmetika_cruelty_free.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_novi_sad_kozmetika_cruelty_free.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_3.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_3.jpg')}});">
+                <a href="{{url('/skins/front/images/model_sminkanje_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/model_sminkanje_novi_sad.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_4.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_4.jpg')}});">
+                <a href="{{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_5.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_5.jpg')}});">
+                <a href="{{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>
                 </a>
             </div>
             <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/image_6.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/image_6.jpg')}});">
+                <a href="{{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}});">
+                    <div class="overlay"></div>
+                    <div class="text text-center">
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4 ftco-animate">
+                <a href="{{url('/skins/front/images/lepota_model_sminkanje_cruelty_free_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/lepota_model_sminkanje_cruelty_free_novi_sad.jpg')}});">
                     <div class="overlay"></div>
                     <div class="text text-center">
                     </div>

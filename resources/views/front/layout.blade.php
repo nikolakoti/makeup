@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{app()->getLocale()}}">
     <head>
-        <title>Profesionalno šminkanje Novi Sad | White rabbit makeup</title>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142572437-2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-142572437-2');
+        </script>
+
+        <title>White rabbit makeup | Profesionalno šminkanje Novi Sad</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Profesionalno šminkanje Novi Sad White rabbit makeup šminka najboljih svetskih brendova koja nije testirana na životinjama" />
+        <meta name="description" content="White rabbit makeup,jer koristim šminku poznatih brendova koja nije testirana na životinjama. Ja sam Milica,akademski umetnik i bavim se profesionalnim šminkanjem."/>
         <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
@@ -30,6 +40,25 @@
             }
         </style>
         @stack('header_css')
+		
+		<!-- Facebook Pixel Code -->
+	<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '739202509848689');
+  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=739202509848689&ev=PageView&noscript=1"
+	/></noscript>
+		<!-- End Facebook Pixel Code -->
+		
     </head>
     <body>
 

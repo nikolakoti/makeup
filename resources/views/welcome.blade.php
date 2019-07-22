@@ -1,10 +1,19 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142572437-2"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-142572437-2');
+        </script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Profesionalno šminkanje Novi Sad White rabbit makeup šminka najboljih svetskih brendova koja nije testirana na životinjama" />
-        <title>Profesionalno šminkanje Novi Sad | White rabbit makeup</title>
+        <meta name="description" content="Profesionalno šminkanje, Novi Sad. Zovem se Milica, a moj posao White rabbit makeup, jer koristim šminku najboljih svetskih brendova koja nije testirana na životinjama"/>
+        <title>White rabbit makeup | Profesionalno šminkanje Novi Sad</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -62,7 +71,25 @@
                 margin-bottom: 30px;
             }
         </style>
-    </head>
+		<!-- Facebook Pixel Code -->
+	<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '739202509848689');
+  fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=739202509848689&ev=PageView&noscript=1"
+	/></noscript>
+		<!-- End Facebook Pixel Code -->
+    
+	</head>
     <body>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
