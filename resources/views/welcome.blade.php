@@ -12,7 +12,7 @@
         </script>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="Profesionalno šminkanje, Novi Sad. Zovem se Milica, a moj posao White rabbit makeup, jer koristim šminku najboljih svetskih brendova koja nije testirana na životinjama"/>
+        <meta name="description" content="Profesionalno šminkanje, Novi Sad. Sve vrste šminkanja, šminkanje za sve prilike, poznati svetski brendovi šminke koja nije testirana na životinjama. Cruelty free makeup."/>
         <title>White rabbit makeup | Profesionalno šminkanje Novi Sad</title>
 
         <!-- Fonts -->

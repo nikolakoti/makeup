@@ -11,23 +11,24 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
-            <div class="carousel-item active" style="background-image: url({{url('/skins/front/images/carousel/cruelty_free_makeup_sminkanje_novi_sad.jpg')}})">
+            <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/cruelty_free_makeup_sminkanje_novi_sad.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <!--<h2 class="display-4"></h2>-->
+                    <h1 class="display-4" style="margin-bottom:20%;margin-left:0px;text-align:left;">Cruelty free<br>makeup</h1>
+                    <p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url({{url('/skins/front/images/carousel/profesionalno_sminkanje_poznati_brendovi_novi_sad.jpg')}})">
+            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/profesionalno_sminkanje_poznati_brendovi_novi_sad.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <!--<h2 class="display-4">Second Slide</h2>
-                    <p class="lead">This is a description for the second slide.</p>-->
+                    <h1 class="display-4" style="margin-left:0px;text-align:left;">Najkvalitetniji<br>svetski <br>brendovi<br> šminke<br> koji nisu <br>testirani<br> na<br> životinjama<br></h1>
+                    <!--<p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
-            <div class="carousel-item" style="background-image: url({{url('/skins/front/images/carousel/sminkanje_za_sve_prilike_mature_svadbe_novi_sad.jpg')}})">
+            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/sminkanje_za_sve_prilike_mature_svadbe_novi_sad.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <!--<h2 class="display-4">Third Slide</h2>
-                    <p class="lead">This is a description for the third slide.</p>-->
+                    <h1 class="display-4" style="color:white;margin-right:0px;text-align:right;margin-bottom:10%;">Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</h1>
+                    <p class="lead" style="color:white;text-align:right;">Zakažite svoj termin <u><a href="{{route('front.contact')}}">ovde.</a></u></p>
                 </div>
             </div>
         </div>
@@ -44,48 +45,54 @@
 <section class="ftco-section-2">
     <div class="photograhy">
         <div class="row no-gutters">
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/sminkanje_novi_sad_kozmetika_cruelty_free.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_novi_sad_kozmetika_cruelty_free.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/model_sminkanje_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/model_sminkanje_novi_sad.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
-            <div class="col-md-4 ftco-animate">
-                <a href="{{url('/skins/front/images/lepota_model_sminkanje_cruelty_free_novi_sad.jpg')}}" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/lepota_model_sminkanje_cruelty_free_novi_sad.jpg')}});">
-                    <div class="overlay"></div>
-                    <div class="text text-center">
-                    </div>
-                </a>
-            </div>
+        <div class="col-md-4 ftco-animate">
+							<a href="{{url('/skins/front/images/profesionalno_sminkanje_za_modeling_novi_sad.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_za_modeling_novi_sad.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Šminka<br>za svaki dan</h2>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/ekstravagantna_sminka.jpg')}}" alt="profesionalno sminkanje za sve prilike novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/ekstravagantna_sminka.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Ekstravagantna<br>šminka</h2>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}}" alt="makeup novi sad kozmetika svetskih brendova" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_novi_sad.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Šminka<br>za poslovne prilike</h2>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/sminkanje_novi_sad_cruelty_free_makeup.jpg')}}" alt="šminkanje za svadbe šminkanje za mature" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_novi_sad_cruelty_free_makeup.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Šminka <br>za devojačke večeri<br>i svadbe</h2>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}}" alt="šminka za sve prilike šminka za svecanosti" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Šminka za izlaske<br>i rođendane</h2>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}}" alt="profesionalno sminkanje povoljne cene novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalno_sminkanje_mature_model_novi_sad.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+                                        <h2 style="color:white;font-weight:100;">Šminka za mature<br> i apsolventske večeri</h2>
+									</div>
+								</a>
+							</div>
         </div>
     </div>
 </section>

@@ -1,4 +1,5 @@
 <aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
+<div><h4>Profesionalni šminker</h4></div>
     <h1 id="colorlib-logo">
         <a href="{{route('front.home')}}">
         <img style="max-width:110%" class="img-fluid rounded" src="{{url('/skins/front/images/logo/logo.jpg')}}" alt="logo"/>
@@ -8,6 +9,7 @@
         <ul>
             <li><a href="{{route('front.home')}}">Početna</a></li>
             <li><a href="{{route('front.gallery')}}">Galerija</a></li>
+            <li><a href="{{route('front.blog')}}">Blog</a></li>
             <li><a href="{{route('front.about')}}">O meni</a></li>
             <li><a href="{{route('front.contact')}}">Kontakt / Zakazivanje</a></li>
         </ul>
