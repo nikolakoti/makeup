@@ -16,7 +16,7 @@
 Route::get('/', 'HomeController@index')->name('front.home');
 Route::get('/o-meni', 'AboutController@index')->name('front.about');
 Route::get('/galerija', 'GalleryController@index')->name('front.gallery');
-Route::get('/blog', 'GalleryController@index')->name('front.blog');
+Route::get('/blog', 'BlogController@index')->name('front.blog');
 Route::get('/kontakt', 'ContactController@index')->name('front.contact');
 
 Route::post('/ajax/contact-form', 'ContactController@process')->name('front.contact.process');

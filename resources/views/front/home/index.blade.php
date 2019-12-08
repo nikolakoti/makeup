@@ -13,14 +13,14 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/cruelty_free_makeup_sminkanje_novi_sad.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <h1 class="display-4" style="margin-bottom:20%;margin-left:0px;text-align:left;">Cruelty free<br>makeup</h1>
-                    <p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>
+                    <h1 class="display-4" style="margin-bottom:80px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;">White<br>rabbit<br>makeup<br><br><b><i>Prepoznatljivi<br>po tvojoj<br>lepoti !</b></i></h1>
+                    <!--<p class="lead" style="text-align:right;">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/profesionalno_sminkanje_poznati_brendovi_novi_sad.jpg')}})">
                 <div class="carousel-caption d-none d-md-block">
-                    <h1 class="display-4" style="margin-left:0px;text-align:left;">Najkvalitetniji<br>svetski <br>brendovi<br> šminke<br> koji nisu <br>testirani<br> na<br> životinjama<br></h1>
+                    <h1 class="display-4" style="margin-bottom:200px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;">Najkvalitetniji<br>svetski <br>brendovi<br> šminke</h1>
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
