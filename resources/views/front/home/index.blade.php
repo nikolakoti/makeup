@@ -12,21 +12,21 @@
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/cruelty_free_makeup_sminkanje_novi_sad.jpg')}})">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption">
                     <h1 class="display-4" style="margin-bottom:80px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;">White<br>rabbit<br>makeup<br><br><b><i>Prepoznatljivi<br>po tvojoj<br>lepoti !</b></i></h1>
                     <!--<p class="lead" style="text-align:right;">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/profesionalno_sminkanje_poznati_brendovi_novi_sad.jpg')}})">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption">
                     <h1 class="display-4" style="margin-bottom:200px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;">Najkvalitetniji<br>svetski <br>brendovi<br> šminke</h1>
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/sminkanje_za_sve_prilike_mature_svadbe_novi_sad.jpg')}})">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption">
                     <h1 class="display-4" style="color:white;margin-right:0px;text-align:right;margin-bottom:10%;">Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</h1>
                     <p class="lead" style="color:white;text-align:right;">Zakažite svoj termin <u><a href="{{route('front.contact')}}">ovde.</a></u></p>
                 </div>
@@ -100,7 +100,7 @@
 <section class="ftco-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12">   
+            <div class="col-lg-12">
                 <div class="row">
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
