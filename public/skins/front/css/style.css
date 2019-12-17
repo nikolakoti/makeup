@@ -466,9 +466,16 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
+  @media (min-width: 320px) and (max-width:480px)
+  {
+    .display-4{
+      font-size: 1.5rem;
+      }
+  }
   @media (min-width: 576px) {
     .container {
-      max-width: 540px; } }
+      max-width: 540px; }
+              }
   @media (min-width: 768px) {
     .container {
       max-width: 720px; } }
