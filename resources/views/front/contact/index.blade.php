@@ -29,9 +29,9 @@
                 </div>
                 <div class="bg-light p-5 mycolor">
                     <h5>Cena šminkanja:</h5>
-                    <p>kod mene &emsp; 2000rsd</p>
-                    <p>kod vas <i>(samo Novi Sad)</i>&emsp; 2500rsd</p>
-                    <p>za mlade &emsp; 2500 / 3000 rsd  :)</p>
+                    <p>kod mene &emsp; <b>2500rsd</b> &emsp; <s>2800rsd</s></p>
+                    <p>kod vas <i>(samo Novi Sad)</i>&emsp; <b>3000rsd</b> &emsp; <s>3500rsd</s></p>
+                    <p>za mlade - dogovor  :)</p>
                 </div>
             </div>
             
