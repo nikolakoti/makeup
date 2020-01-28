@@ -142,6 +142,13 @@
 								</a>
 							</div>
 							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/nefertiti.jpg')}}" alt="model trepavice sminka kozmetika novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/nefertiti.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
 								<a href="{{url('/skins/front/images/sminkanje_za_mature_sminkanje_novi_sad.jpg')}}" alt="model trepavice sminka kozmetika novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_za_mature_sminkanje_novi_sad.jpg')}});">
 									<div class="overlay"></div>
 									<div class="text text-center">
