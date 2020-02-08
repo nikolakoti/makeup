@@ -247,6 +247,13 @@
 								</a>
 							</div>
 							<div class="col-md-4 ftco-animate">
+								<a href="{{url('/skins/front/images/amazonka.jpg')}}" alt="cruelty free kozmetika white rabbit sminka koja nije testirana na zivotinjama" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/amazonka.jpg')}});">
+									<div class="overlay"></div>
+									<div class="text text-center">
+									</div>
+								</a>
+							</div>
+							<div class="col-md-4 ftco-animate">
 								<a href="{{url('/skins/front/images/profesionalna_sminka_za_izlaske_novi_sad.jpg')}}" alt="cruelty free kozmetika white rabbit sminka koja nije testirana na zivotinjama" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalna_sminka_za_izlaske_novi_sad.jpg')}});">
 									<div class="overlay"></div>
 									<div class="text text-center">
