@@ -45,54 +45,31 @@
 <section class="ftco-section-2">
     <div class="photograhy">
         <div class="row no-gutters">
-        <div class="col-md-4 ftco-animate">
-							<a href="{{url('/skins/front/images/cut_crease_makeup.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cut_crease_makeup.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-                                        <!--<h2 style="color:white;font-weight:100;">Šminka<br>za svaki dan</h2>-->
-									</div>
-								</a>
-							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/sminka_turban_smokey_eye.jpg')}}" alt="profesionalno sminkanje za sve prilike novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_turban_smokey_eye.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-                                        <!--<h2 style="color:white;font-weight:100;">Ekstravagantna<br>šminka</h2>-->
-									</div>
-								</a>
-							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}}" alt="makeup novi sad kozmetika svetskih brendova" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-                                        <!--<h2 style="color:white;font-weight:100;">Šminka<br>za poslovne prilike</h2>-->
-									</div>
-								</a>
-							</div>
-                           
-                            <div class="text text-center">
-                                <h3><br><i>"Šminka se nije pomerila celu noć. Ako je ne skinem večeras, <strong>jel može da izdrži do sledećeg vikenda?</strong> Imam svadbu :)"</i><br><br></h3>
-                            </div>
-							
-                            <div class="col-md-4">
-                        <div class="blog-entry-logo ftco-animate">
-                            <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija1.jpg')}});"></a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="blog-entry-logo ftco-animate">
-                            <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija2.jpg')}});"></a>
-                        </div>
-                    </div>
-                    <div class="col-md-4">
-                        <div class="blog-entry-logo ftco-animate">
-                            <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija3.jpg')}});"></a>
-                        </div>
-                    </div>    
+            <div class="text text-center">
+                <h3><br><i>"Šminka se nije pomerila celu noć. Ako je ne skinem večeras, <strong>jel može da izdrži do sledećeg vikenda?</strong> Imam svadbu :)"</i><br><br></h3>
             </div>
-       
+							
+            <div class="col-md-4">
+                <div class="blog-entry-logo ftco-animate">
+                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija1.jpg')}});"></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-entry-logo ftco-animate">
+                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija2.jpg')}});"></a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-entry-logo ftco-animate">
+                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija3.jpg')}});"></a>
+                </div>
+            </div> 
+
+            
+        </div>
     </div>
 </section>
+
 <!--Logo section-->
 <section class="ftco-section">
     <div class="container">
@@ -129,7 +106,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
-                            <a class="author-image text img p-md-5 ftco-animate" style="background-image: url({{url('/skins/front/images/logo/note_beauty_sminka.jpg')}});"></a>
+                            <a class="author-image text img p-md-5 ftco-animate" style="background-image: url({{url('/skins/front/images/logo/juvias_place.jpg')}});"></a>
                         </div>
                     </div>
                 </div>
@@ -137,6 +114,41 @@
         </div>
     </div>
 </section>
+
+<section class="ftco-section-2">
+    <div class="photograhy">
+        <div class="row no-gutters">
+            <div class="text text-center">
+                <h3><br>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong>, a možete i na <i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank">Instagram</a></i> ili <i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank">Facebook</i></a> profilu :) <br><br></h3>
+            </div>
+            <div class="col-md-4 ftco-animate">
+				<a href="{{url('/skins/front/images/cut_crease_makeup.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cut_crease_makeup.jpg')}});">
+					<div class="overlay"></div>
+						<div class="text text-center">
+                            <!--<h2 style="color:white;font-weight:100;">Šminka<br>za svaki dan</h2>-->
+						</div>
+				</a>
+			</div>
+			<div class="col-md-4 ftco-animate">
+				<a href="{{url('/skins/front/images/sminka_turban_smokey_eye.jpg')}}" alt="profesionalno sminkanje za sve prilike novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_turban_smokey_eye.jpg')}});">
+					<div class="overlay"></div>
+						<div class="text text-center">
+                            <!--<h2 style="color:white;font-weight:100;">Ekstravagantna<br>šminka</h2>-->
+						</div>
+				</a>
+			</div>
+			<div class="col-md-4 ftco-animate">
+				<a href="{{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}}" alt="makeup novi sad kozmetika svetskih brendova" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_za_sve_prilike_sminka_za_svadbe.jpg')}});">
+					<div class="overlay"></div>
+						<div class="text text-center">
+                            <!--<h2 style="color:white;font-weight:100;">Šminka<br>za poslovne prilike</h2>-->
+					    </div>
+				</a>
+			</div>
+        </div>
+    </div>
+</section>
+
 
 @endsection
 
