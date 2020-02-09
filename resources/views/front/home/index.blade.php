@@ -77,7 +77,7 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="text text-center">
-                        <h1>Koristim samo brendove koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h1>
+                        <h2>Koristim samo brendove koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h2>
                     </div>
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
@@ -119,7 +119,7 @@
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="text text-center">
-                <h3><br>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong>, a možete i na <i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank">Instagram</a></i> ili <i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank">Facebook</i></a> profilu :) <br><br></h3>
+                <h3>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong> na sajtu, na <i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank">Instagram</a></i> ili <i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank">Facebook</i></a> profilu :) <br><br></h3>
             </div>
             <div class="col-md-4 ftco-animate">
 				<a href="{{url('/skins/front/images/cut_crease_makeup.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cut_crease_makeup.jpg')}});">
