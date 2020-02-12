@@ -13,7 +13,7 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/profesionalno_sminkanje_novi_sad.jpg')}})">
                 <div class="carousel-caption">
-                    <h1 class="display-4" style="margin-bottom:40px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"></h1>
+                    <h1 class="display-4" style="margin-bottom:40px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"><strong>White rabbit</strong><br> jer koristim samo proizvode <br>koji <strong>nisu testirani</strong><br> na životinjama (<strong>cruelty free</strong>)</h1>
                     <!--<p class="lead" style="text-align:right;">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
