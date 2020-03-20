@@ -13,7 +13,8 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika1.jpg')}});">
                 <div class="carousel-caption">
-                    <h1 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:oblique;font-weight:bold; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Dobro došli !<br>Ovo je White rabbit makeup</h1>
+                    <h2 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:italic;letter-spacing:4px;font-weight:bold;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Dobro došli!<br>Ovo je<br></h2>
+                    <h1 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:italic;letter-spacing:8px;font-weight:bold;"><b> White rabbit makeup</b></h1>
                     <!--<h3 style="margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"><br> Jer za <strong>šminkanje</strong> koristim samo proizvode <br>koji <strong>nisu testirani</strong><br> na životinjama (<strong>cruelty free</strong>)</h3>-->
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
