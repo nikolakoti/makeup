@@ -13,7 +13,7 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika1.jpg')}});">
                 <div class="carousel-caption">
-                    <h1 class="display-4" style="font-family: Microsoft YaHei UI, sans-serif;letter-spacing: 4px;color: white;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Dobro došli !<br>Ovo je White rabbit makeup</h1>
+                    <h1 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:oblique;font-weight:bold; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Dobro došli !<br>Ovo je White rabbit makeup</h1>
                     <!--<h3 style="margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"><br> Jer za <strong>šminkanje</strong> koristim samo proizvode <br>koji <strong>nisu testirani</strong><br> na životinjama (<strong>cruelty free</strong>)</h3>-->
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
@@ -43,7 +43,7 @@
         </a>
     </div>
 </header>
-<section class="ftco-section-2">
+<!--<section class="ftco-section-2">
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="text text-center">
@@ -70,7 +70,7 @@
         </div>
     </div>
 </section>
-
+-->
 <!--Logo section-->
 <section class="ftco-section">
     <div class="container">
@@ -78,7 +78,7 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="text text-center">
-                        <h2>Koristim samo brendove koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h2>
+                        <h2>Šminkam samo brendovima koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h2>
                     </div>
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
