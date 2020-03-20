@@ -13,8 +13,9 @@
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika1.jpg')}});">
                 <div class="carousel-caption">
-                    <h2 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:italic;letter-spacing:4px;font-weight:bold;text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Dobro došli!<br>Ovo je<br></h2>
-                    <h1 class="display-4" style="font-family: Andale Mono, monospace;color: white;font-style:italic;letter-spacing:8px;font-weight:bold;"><b> White rabbit makeup</b></h1>
+                    <h1 class="display-4" style="font-family:Source Sans Pro, sans-serif;color:white;font-size:50px;font-weight:600;">Dobro došli<br></h1>
+                    <h5 class="display-4" style="font-family:Harriet Display;color:#dcdcdc;font-style:italic;font-size:30px;">~ Ovo je ~<br></h5>
+                    <h1 class="display-4" style="font-family:Montserrat, Arial, sans-serif;color: white;font-style:normal;letter-spacing:8px;font-weight:bold;"><b> White rabbit makeup</b></h1>
                     <!--<h3 style="margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"><br> Jer za <strong>šminkanje</strong> koristim samo proizvode <br>koji <strong>nisu testirani</strong><br> na životinjama (<strong>cruelty free</strong>)</h3>-->
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
@@ -79,7 +80,7 @@
             <div class="col-lg-12">
                 <div class="row">
                     <div class="text text-center">
-                        <h2>Šminkam samo brendovima koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h2>
+                        <h2>Koristim samo kozmetičke brendove koji <strong>nisu testirani na životinjama</strong> i želim da širim svest o tome.</h2>
                     </div>
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
