@@ -45,34 +45,69 @@
         </a>
     </div>
 </header>
-<!--<section class="ftco-section-2">
-    <div class="photograhy">
-        <div class="row no-gutters">
-            <div class="text text-center">
-                <h3><br><i>"Šminka se nije pomerila celu noć. Ako je ne skinem večeras, <strong>jel može da izdrži do sledećeg vikenda?</strong> Imam svadbu :)"</i><br><br></h3>
-            </div>
-							
-            <div class="col-md-4">
-                <div class="blog-entry-logo ftco-animate">
-                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija1.jpg')}});"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="blog-entry-logo ftco-animate">
-                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija2.jpg')}});"></a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="blog-entry-logo ftco-animate">
-                    <a class="author-image text img p-md-5" style="height:300px; background-image: url({{url('/skins/front/images/recenzija3.jpg')}});"></a>
-                </div>
-            </div> 
 
-            
+<!--Testimonials-->
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="testimonial-slider" class="owl-carousel" style="background:#3d3d3d;">
+                <div class="testimonial">
+                    <p class="description">
+                    Prijatna, opuštena atmosfera i uz to sjajan rezultat, za svaku preporuku, prezadovoljna. Milica šminka isključivo cruelty free šminkom sto je svakako veliki plus za nas ljubitelje životinja.
+                    </p>
+                    <div class="pic">
+                        <img src='/skins/front/images/milica_p.jpg' alt="sminkanje_novi_sad">
+                    </div>
+                    <div class="testimonial-prof">
+                        <h4>Milica P.</h4>
+                        <!--<small>Web Developer</small>-->
+                    </div>
+                </div>
+ 
+                <div class="testimonial">
+                    <p class="description">
+                     Za Milicu sam dobila preporuku. Čula sam da je umetnik po struci i da voli šminkanje. Oduševila me je kada mi je dala preporuku za makeup izgled u odnosu na dogadjaj i odevnu kombinaciju.    
+                    </p>
+                    <div class="pic">
+                        <img src='/skins/front/images/ivana_n.jpg' alt="profesionalno_sminkanje">
+                    </div>
+                    <div class="testimonial-prof">
+                        <h4>Ivana N.</h4>
+                        <!--<small>Web Designer</small>-->
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <p class="description">
+                        U momentu kada mi je šminkerka otkazala termin slučajno sam na guglu našla White rabbit makeup. Nisam poznavala Milicu i bila sam skeptična kako ću izgledati jer sam to veče imala godišnjicu mature. Šminka je bila perfektna i trajala je celu noć ! 
+                    </p>
+                    <div class="pic">
+                        <img src='/skins/front/images/tamara_p.jpg' alt="sminkanje_za_sve_prilike">
+                    </div>
+                    <div class="testimonial-prof">
+                        <h4>Tamara P.</h4>
+                        <!--<small>Web Designer</small>-->
+                    </div>
+                </div>
+                <div class="testimonial">
+                    <p class="description">
+                        
+                    </p>
+                    <div class="pic">
+                        <img src='/skins/front/images/tijana.jpg' alt="sminka_za_svadbe_novi_sad">
+                    </div>
+                    <div class="testimonial-prof">
+                        <h4>Tijana T.</h4>
+                        <!--<small>Web Designer</small>-->
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
-</section>
--->
+</div>
+
+
 <!--Logo section-->
 <section class="ftco-section">
     <div class="container">

@@ -7737,7 +7737,7 @@ h1, h2, h3, h4, h5,
       margin-right: 10px; }
       .staff .ftco-social-icon li span {
         font-size: 16px; }
-
+/*
 .owl-carousel {
   position: relative; }
   .owl-carousel .owl-item {
@@ -7956,7 +7956,7 @@ h1, h2, h3, h4, h5,
         background: rgba(255, 255, 255, 0.4); }
         .owl-carousel.home-slider .owl-dots .owl-dot.active {
           background: #fff; }
-
+*/
 .btn {
   cursor: pointer;
   -webkit-border-radius: 30px;
@@ -8666,3 +8666,5 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
+
+    

@@ -39,9 +39,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link href="{{url('/skins/front/css/jquery.timepicker.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/flaticon.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/icomoon.css')}}" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
         <link href="{{url('/skins/front/css/style.css')}}" rel="stylesheet" type="text/css"/>
+        <link href="{{url('/skins/front/css/testimonial.css')}}" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
         <link href="{{url('/skins/front/css/footer/Footer-with-button-logo.css')}}" rel="stylesheet" type="text/css"/>
+        
+
         <style>
             .mycolor
             {
@@ -111,6 +116,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!--        <script src="{{url('/skins/front/js/jquery.timepicker.min.js')}}"></script>-->
         <script src="{{url('/skins/front/js/scrollax.min.js')}}" type="text/javascript"></script>
         <script src="{{url('/skins/front/js/main.js')}}" type="text/javascript"></script>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+        <script>
+            $(document).ready(function(){
+    $("#testimonial-slider").owlCarousel({
+        items:3,
+        itemsDesktop:[1199,3],
+        itemsDesktopSmall:[1000,2],
+        itemsTablet:[767,1],
+        pagination: false,
+        navigation:true,
+        navigationText:["",""],
+        autoPlay:false
+    });
+});
+    </script>
+
         @stack('footer_javascript')
     </body>
 </html>
