@@ -48,7 +48,7 @@
 
 <!--Testimonials-->
 
-<div class="container">
+<!--<div class="container">-->
     <div class="row">
         <div class="col-md-12">
             <div id="testimonial-slider" class="owl-carousel" style="background:#3d3d3d;">
@@ -105,7 +105,7 @@
             </div>
         </div>
     </div>
-</div>
+<!--</div>-->
 
 
 <!--Logo section-->
@@ -157,7 +157,7 @@
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="text text-center">
-                <h3>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong> na sajtu, na <i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank">Instagram</a></i> ili <i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank">Facebook</i></a> profilu :) <br><br></h3>
+                <h3>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong> na sajtu, na <i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank">Instagram</a></i> ili <i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank">Facebook</i></a> profilu<br><br></h3>
             </div>
             <div class="col-md-4 ftco-animate">
 				<a href="{{url('/skins/front/images/cut_crease_makeup.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cut_crease_makeup.jpg')}});">
