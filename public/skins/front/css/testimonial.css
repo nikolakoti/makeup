@@ -71,7 +71,7 @@
   .owl-prev:before,
   .owl-next:before{
       content: "\f053";
-      font-family: "Font Awesome 5 Free"; font-weight: 900;
+      font-family: "FontAwesome"; font-weight: 900;
       color: #fff;
   }
   .owl-next:before{

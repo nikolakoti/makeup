@@ -92,7 +92,7 @@
                 </div>
                 <div class="testimonial">
                     <p class="description">
-                        
+                        Milica je moj šminker zauvek definitivno! Zato što ne otaljava posao, već se potpuno posveti. Zato što zajedno dogovaramo vrstu šminke za moje potrebe. I zato što je umetnik, pa zna šta su boje, kontrasti i senka :) 
                     </p>
                     <div class="pic">
                         <img src='/skins/front/images/tijana.jpg' alt="sminka_za_svadbe_novi_sad">
