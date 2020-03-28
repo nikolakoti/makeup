@@ -11,7 +11,7 @@
         </ol>
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
-            <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/proba_3.jpg')}});">
+            <div class="carousel-item active" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika1.jpg')}});">
                 <div class="carousel-caption">
                     <!--<h1 class="display-4" style="font-family:Source Sans Pro, sans-serif;color:white;font-size:50px;font-weight:600;">Dobro došli<br></h1>-->
                     <h4 class="display-4" style="font-family:Harriet Display;color:black;font-style:italic;font-size:40px;text-align:left;">~ Uzmi lice koje god poželiš ~<br></h4>
@@ -21,7 +21,7 @@
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/proba_2.jpg')}})">
+            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika2.jpg')}})">
                 <div class="carousel-caption">
                 <h4 class="display-4" style="font-family:Harriet Display;color:black;font-style:italic;text-align:right;margin-bottom:200px;">~ Šminka je korisna iluzija<br> ako se smisleno upotrebi. ~<br></h4>
                     <h1 class="display-4" style="margin-bottom:20px;margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"></h1>
@@ -29,10 +29,10 @@
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
-            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika1.jpg')}})">
+            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika3.jpg')}})">
                 <div class="carousel-caption">
                     <!--<h1 class="display-4" style="color:white;margin-right:0px;text-align:right;margin-bottom:10%;"><strong>Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</strong></h1>-->
-                    <h4 class="display-4" style="font-family:Harriet Display;color:white;text-align:left;font-style:oblique;font-size:25px;">Vidi <strong><u><a href="{{route('front.gallery')}}">galeriju</a></u></strong> ili se informiši o ceni i zakazivanju <strong><u><a href="{{route('front.contact')}}">ovde.</a></u></strong></h4>
+                    <h4 class="display-4" style="font-family:Montserrat, Arial, sans-serif;color:white;text-align:left;font-style:oblique;font-size:20px;">Vidi <strong><u><a href="{{route('front.gallery')}}">galeriju</a></u></strong> ili se informiši o ceni i zakazivanju <strong><u><a href="{{route('front.contact')}}">ovde.</a></u></strong></h4>
                 </div>
             </div>
         </div>
@@ -158,7 +158,7 @@
     <div class="photograhy">
         <div class="row no-gutters">
             <div class="text text-center">
-                <h3>Neke od mojih radova pogledajte u <strong><a href="{{route('front.gallery')}}">galeriji</a></strong> na sajtu, na <strong><i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank" style="color:#e8714d;">Instagram</a></i></strong> ili <strong><i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank" style="color:#574de8;">Facebook</i></a></strong> profilu<br><br></h3>
+                <h3>Neke od mojih radova pogledajte u <strong><u><a href="{{route('front.gallery')}}" style="color:black;">galeriji</a></u></strong> na sajtu, na <strong><i><a href="https://www.instagram.com/whiterabbitmakeupns/" target="_blank" style="color:#a51919ad;">Instagram</a></i></strong> ili <strong><i><a href="https://www.facebook.com/whiterabbitmakeup/" target="_blank" style="color:#574de8;">Facebook</i></a></strong> profilu<br><br></h3>
             </div>
             <div class="col-md-4 ftco-animate">
 				<a href="{{url('/skins/front/images/cut_crease_makeup.jpg')}}" alt="profesionalno sminkanje novi sad kozmetika cruelty free" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cut_crease_makeup.jpg')}});">
