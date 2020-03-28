@@ -29,9 +29,8 @@
                 </div>
                 <div class="bg-light p-5 mycolor">
                     <h5>Cena šminkanja:</h5>
-                    <p>kod mene &emsp; <b>2500rsd</b></p>
-                    <p>kod vas <i>(samo Novi Sad)</i>&emsp; <b>3000rsd</b></p>
-                    <p>za mlade - dogovor  :)</p>
+                    <p>kod mene &emsp; <b>2000rsd</b></p>
+                    <p>kod vas <i>(samo Novi Sad)</i>&emsp; <b>2500rsd</b></p>
                 </div>
             </div>
             
@@ -39,6 +38,7 @@
 
                 <form action="" class="bg-light p-5 contact-form" method="POST" id="contact-form">
                     @csrf
+                    <p style="text-align:left;">Ako imate pitanje ili želite da zakažete termin za šminkanje, popunite formu ispod &#8659;<p>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Ime" name="name" id="name">
                     </div>
