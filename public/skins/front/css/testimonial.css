@@ -8,8 +8,8 @@
       line-height: 26px;
       color: #fff;
       padding: 30px 20px;
-      border: 1px solid #767070;
-      border-left: 3px solid #ffc33c;
+      border: 1px solid #908383;
+      border-left: 3px solid #c5c4c2;
       margin-top:15px;
   }
   .testimonial .description:after{
@@ -31,7 +31,7 @@
       overflow: hidden;
       margin: 20px 30px 10px;
       display: inline-block;
-      border: 3px solid  #ffc33c;
+      border: 3px solid  #e8e6e2;
   }
   .testimonial .pic img{
       width: 100%;
@@ -42,7 +42,7 @@
       margin: 0 30px;
   }
   .testimonial .testimonial-prof h4{
-      color: #ffc33c;
+      color: #ffffff;
       display: block;
       font-size: 17px;
       font-weight: bold;
@@ -58,7 +58,7 @@
   }
   .owl-theme .owl-controls .owl-buttons div{
       border-radius: 0;
-      background: #ffc33c;
+      background: #ffffff;
       padding: 15px 20px;
       opacity: 1;
       border: 1px solid transparent;
@@ -72,7 +72,7 @@
   .owl-next:before{
       content: "\f053";
       font-family: "FontAwesome"; font-weight: 900;
-      color: #fff;
+      color: #3d3d3d;
   }
   .owl-next:before{
       content: "\f054";

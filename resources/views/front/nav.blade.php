@@ -1,5 +1,5 @@
 <aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
-<div><h4>Profesionalni šminker</h4></div>
+<div><h4 style="font-size:20px;text-transform:uppercase;text-align:center;font-weight:550;line-height:1.8">Profesionalni šminker</h4></div>
     <h1 id="colorlib-logo">
         <a href="{{route('front.home')}}">
         <img style="max-width:110%" class="img-fluid rounded" src="{{url('/skins/front/images/logo/logo.jpg')}}" alt="logo"/>
