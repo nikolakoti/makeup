@@ -23,8 +23,8 @@
             <!-- Slide Two - Set the background image for this slide in the line below -->
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika2.jpg')}})">
                 <div class="carousel-caption">
-                    <h4 class="display-4" style="color:black;text-align:right;">Šminka je korisna iluzija<br></h4>
-                    <h4 class="display-4" style="color:black;text-align:right;">ako se smisleno upotrebi.<br></h4>
+                    <h4 class="display-4" style="color:black;text-align:right;margin-bottom:250px;">Šminka je korisna iluzija<br> ako se smisleno upotrebi.<br></h4>
+                    <!--<h4 class="display-4" style="color:black;text-align:right;">ako se smisleno upotrebi.<br></h4>-->
                     <!--<h1 class="display-4" style="color:black;text-align:right;">Sminka je korisna iluzija ako se smisleno upotrebi.</h1>-->
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
@@ -33,7 +33,7 @@
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika3.jpg')}})">
                 <div class="carousel-caption">
                     <!--<h1 class="display-4" style="color:white;margin-right:0px;text-align:right;margin-bottom:10%;"><strong>Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</strong></h1>-->
-                    <h4 class="display-4" style="color:white;text-align:left;">Vidi <strong><a href="{{route('front.gallery')}}" style="color:#6296cedb;">galeriju</a></strong> ili se informiši o ceni i zakazivanju <strong><a href="{{route('front.contact')}}" style="color:#6296cedb;">ovde.</a></strong></h4>
+                    <h4 class="display-4" style="color:white;text-align:left;">Vidi <strong><u><a href="{{route('front.gallery')}}">galeriju</a></u></strong> ili se informiši o ceni i zakazivanju <strong><u><a href="{{route('front.contact')}}">ovde.</a></u></strong></h4>
                 </div>
             </div>
         </div>

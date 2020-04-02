@@ -7390,7 +7390,7 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #f3c23a; }
+  color:white; }
   a:hover, a:focus {
     text-decoration: none;
     color: #f67e7d;
