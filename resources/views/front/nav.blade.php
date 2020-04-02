@@ -9,7 +9,7 @@
         <ul>
             <li><a href="{{route('front.home')}}">Početna</a></li>
             <li><a href="{{route('front.gallery')}}">Galerija</a></li>
-            <li><a href="{{route('front.blog')}}">Blog</a></li>
+            <!--<li><a href="{{route('front.blog')}}">Blog</a></li>-->
             <li><a href="{{route('front.about')}}">O meni</a></li>
             <li><a href="{{route('front.contact')}}">Kontakt / Zakazivanje</a></li>
         </ul>
