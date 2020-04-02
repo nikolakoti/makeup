@@ -24,9 +24,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Profesionalno šminkanje, Novi Sad. Sve vrste šminkanja, šminkanje za sve prilike, poznati svetski brendovi šminke koja nije testirana na životinjama. Cruelty free makeup."/>
-        <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Playfair+Display" />
-        <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <!--<link href="http://allfont.net/allfont.css?fonts=playfair-display" rel="stylesheet" type="text/css" />-->
+        <!--<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">-->
+        <!--<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">-->
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
         <link rel="shortcut icon" href="{{url('/skins/front/images/logo/logo_icon.jpg')}}" type="image/x-icon"/>  <!-- LOGO BROWSER TAB -->
         <link href="{{url('/skins/front/css/open-iconic-bootstrap.min.css')}}" rel="stylesheet" type="text/css"/>
@@ -40,11 +41,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link href="{{url('/skins/front/css/jquery.timepicker.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/flaticon.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/icomoon.css')}}" rel="stylesheet" type="text/css"/>
+        
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
         <link href="{{url('/skins/front/css/style.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/testimonial.css')}}" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+        
         <link href="{{url('/skins/front/css/footer/Footer-with-button-logo.css')}}" rel="stylesheet" type="text/css"/>
         
 

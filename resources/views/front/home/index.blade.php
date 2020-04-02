@@ -15,25 +15,26 @@
                 <div class="carousel-caption">
                     <!--<h1 class="display-4" style="font-family:Source Sans Pro, sans-serif;color:white;font-size:50px;font-weight:600;">Dobro došli<br></h1>-->
                     <h4 class="display-4" style="color:black;text-align:left;">Uzmi lice koje god poželiš<br></h4>
-                    <h1 class="display-4" style="color:black;text-align:left;"><b> White rabbit makeup</b></h1>
-                    <!--<h3 style="margin-left:0px;text-align:left;color: white;text-shadow: 2px 2px 4px #000000;"><br> Jer za <strong>šminkanje</strong> koristim samo proizvode <br>koji <strong>nisu testirani</strong><br> na životinjama (<strong>cruelty free</strong>)</h3>-->
+                    <h1 class="display-4" style="color:black;text-align:left;font-weight:700 !important;"><b>White rabbit makeup</b></h1>
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black;" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Two - Set the background image for this slide in the line below -->
-            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika2.jpg')}})">
+            <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika2.jpg')}});">
                 <div class="carousel-caption">
-                    <h4 class="display-4" style="color:black;text-align:right;margin-bottom:250px;">Šminka je korisna iluzija<br> ako se smisleno upotrebi.<br></h4>
-                    <!--<h4 class="display-4" style="color:black;text-align:right;">ako se smisleno upotrebi.<br></h4>-->
-                    <!--<h1 class="display-4" style="color:black;text-align:right;">Sminka je korisna iluzija ako se smisleno upotrebi.</h1>-->
+                    <h4 class="display-4" style="color:black;text-align:right;"><strong>Izaberi sama termin na sajtu</strong> i dobićeš potvrdu mejlom da si uspešno zakazala šminkanje !</h4>
+                    
+                        <!--<a href="{{route('front.contact')}}">
+                        <button type="button" class="btn btn-default" style="border: 1px solid;">Zakaži</button>
+                        </a>-->
                     <!--<p class="lead">Zakažite svoj termin <u><a style="color:black" href="{{route('front.contact')}}">ovde.</a></u></p>-->
                 </div>
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
             <div class="carousel-item" alt="profesionalno sminkanje za sve prilike novi sad kozmetika koja nije testirana na zivotinjama cruelty free makeup" style="background-image: url({{url('/skins/front/images/carousel/slika3.jpg')}})">
                 <div class="carousel-caption">
-                    <!--<h1 class="display-4" style="color:white;margin-right:0px;text-align:right;margin-bottom:10%;"><strong>Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</strong></h1>-->
-                    <h4 class="display-4" style="color:white;text-align:left;">Vidi <strong><u><a href="{{route('front.gallery')}}">galeriju</a></u></strong> ili se informiši o ceni i zakazivanju <strong><u><a href="{{route('front.contact')}}">ovde.</a></u></strong></h4>
+                    <h1 class="display-4" style="color:white;text-align:left;"><strong>Profesionalno<br> šminkanje<br> za <br>sve<br> prilike</strong></h1>
+                    <!--<h4 class="display-4" style="color:white;text-align:left;">Vidi <strong><u><a href="{{route('front.gallery')}}">galeriju</a></u></strong> ili se informiši o ceni i zakazivanju <strong><u><a href="{{route('front.contact')}}">ovde.</a></u></strong></h4>-->
                 </div>
             </div>
         </div>
