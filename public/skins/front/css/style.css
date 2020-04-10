@@ -360,49 +360,22 @@ h6, .h6 {
   line-height: 1.2;
    }
 
-h1.display-4{
-    z-index: 6;
-    font-size: 60px;
-    line-height: 60px;
-    font-weight: 700 !important;
-    color: rgb(0, 0, 0);
-    letter-spacing: 0px;
+h2.display-4{
     font-family: 'Playfair Display', serif;
-    visibility: inherit;
-    transition: none 0s ease 0s;
-    text-align: center;
-    border-width: 0px;
-    margin: 0px;
-    padding: 0px;
-    min-height: 0px;
-    min-width: 0px;
-    max-height: none;
-    max-width: none;
-    opacity: 1;
-    transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
-    transform-origin: 50% 50% 0px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 45px;
+    margin: 0 0 0 230px;
+    color:#5e586a;
+    text-align:left;
 
    }   
-h4.display-4{
-  z-index: 9;
-  white-space: normal;
-  font-size: 30px;
-  line-height: 30px;
-  font-weight: 400;
-  color: rgb(102, 102, 102);
-  letter-spacing: 0px;
-  font-family: 'Playfair Display', serif;
-  visibility: inherit;
-  transition: none 0s ease 0s;
-  text-align: center;
-  border-width: 0px;
-  margin: 0px;
-  padding: 0px;
-  min-height: 0px;
-  max-height: none;
-  opacity: 1;
-  transform-origin: 50% 50% 0px;
-  transform: matrix3d(1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
+h1.display-4{
+    font-family: 'Raleway';
+    font-size: 75px;
+    margin: 40px 0 23px 50px;
+    color:black;
+    text-align:left;
 }
 
 
@@ -522,13 +495,16 @@ pre {
       font-size: 2.2rem;
       }
     h1.display-4{
-        font-size: 37px;
+        font-size: 45px;
         line-height: 40px;
         font-weight:700;
+        margin:80px 0 25px 10px;
       }
-    h4.display-4{
-      font-size: 16px;
-      line-height: 25px;
+    h2.display-4{
+      font-size: 30px;
+    line-height: 32px;
+    margin: 0 130px 0 60px;
+    letter-spacing: 4px;
     }  
 
   }
@@ -5004,7 +4980,7 @@ button.close {
     background-color: #fff; }
 
 .carousel-caption {
-  position: absolute;
+ 
   right: 15%;
   bottom: 20px;
   left: 15%;
@@ -8743,5 +8719,25 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-
+    * {
+      box-sizing: border-box;
+    }
+    .column2 {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
     
+    /* Clearfix (clear floats) */
+    .row2::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+    
+    /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+    @media screen and (max-width: 500px) {
+      .column2 {
+        width: 100%;
+      }
+    }    

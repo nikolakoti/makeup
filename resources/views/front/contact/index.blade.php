@@ -21,15 +21,15 @@
 <section class="ftco-section-contact contact-section">
     <div class="container">
         <div class="row block-9 pt-4">
-            <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-xs-12 offset-lg-3 offset-md-2">
+            <div class="col-xl-6 col-lg-6 col-md-8 col-sm-12 col-xs-12 offset-lg-3 offset-md-2" style="color:black;">
                 <div class="bg-light p-5 mycolor">
                     <p><span><i class="material-icons">location_on</i></span>&emsp;<a>Bulevar Oslobođenja 66b, Novi Sad</a>&emsp;</p>
                     <p><span><i class="material-icons">phone_android</i></span>&emsp;<a href="tel:0692354303" style="color:rgb(0,0,0,0.7)">069 2354303</a></p>
                     <p><span><i class="material-icons">email</i></span>&emsp;<a href="mailto:kontakt@whiterabbitmakeup.rs" style="color:rgb(0,0,0,0.7)">kontakt@whiterabbitmakeup.rs</a></p>
                 </div>
-                <div class="bg-light p-5 mycolor">
+                <div class="bg-light p-5 mycolor" style="color:black;">
                     <h5>Cena šminkanja:</h5>
-                    <p>kod mene &emsp; <b>2000rsd</b></p>
+                    <p> u White Rabbit-u &emsp; <b>2000rsd</b></p>
                     <p>kod vas <i>(samo Novi Sad)</i>&emsp; <b>2500rsd</b></p>
                 </div>
             </div>
@@ -38,7 +38,7 @@
 
                 <form action="" class="bg-light p-5 contact-form" method="POST" id="contact-form">
                     @csrf
-                    <p style="text-align:left;">Ako imate pitanje ili želite da zakažete termin za šminkanje, popunite formu ispod &#8659;<p>
+                    <p style="text-align:left;color:black;"><b>Ako imate pitanje ili želite da zakažete termin za šminkanje, popunite formu ispod &#8659;<b><p>
                     <div class="form-group">
                         <input type="text" class="form-control" placeholder="Ime" name="name" id="name">
                     </div>

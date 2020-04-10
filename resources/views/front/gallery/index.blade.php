@@ -36,7 +36,7 @@
 								</a>
 							</div>
 							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/sminka_za_muzicke_spotove_scenska_sminka.jpeg')}}" alt="/model sminkanje novi sad kozmetika koja nije testirana na zivotinjama"class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_za_muzicke_spotove_scenska_sminka.jpeg')}});">
+								<a href="{{url('/skins/front/images/krupan-plan-zenskog-lica-nasminkanog-tehnikom-cut-crease-u-nezno-roze-tonovima-i-dominantnim-crnim-ajlajnerom.jpg')}}" alt="krupan plan zenskog lica nasminkanog tehnikom cut crease u nezno roze tonovima i dominantnim crnim ajlajnerom" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/krupan-plan-zenskog-lica-nasminkanog-tehnikom-cut-crease-u-nezno-roze-tonovima-i-dominantnim-crnim-ajlajnerom.jpg')}});">
 									<div class="overlay"></div>
 									<div class="text text-center">
 									</div>
@@ -71,7 +71,7 @@
 								</a>
 							</div>
 							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/sminka_za_maskenbale_novi_sad.jpg')}}" alt="sminkanje novi sad cruelty free makeup" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_za_maskenbale_novi_sad.jpg')}});">
+								<a href="{{url('/skins/front/images/devojka-sa-zelenim-ocima-nasminkana-braon-nijansama-sminke-krupan-plan.jpg')}}" alt="devojka sa zelenim ocima nasminkana braon nijansama sminke krupan plan lica" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/devojka-sa-zelenim-ocima-nasminkana-braon-nijansama-sminke-krupan-plan.jpg')}});">
 									<div class="overlay"></div>
 									<div class="text text-center">
 									</div>
@@ -155,20 +155,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}}" alt="sminkanje za sve prilike novi sad sminka za svadbe" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminkanje_za_sve_prilike_novi_sad.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-									</div>
-								</a>
-							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/profesionalna_sminka_za_sve_prilike_novi_sad_devojke.jpg')}}" alt="profesionalna sminka za sve prilike novi sad devojke" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/profesionalna_sminka_za_sve_prilike_novi_sad_devojke.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-									</div>
-								</a>
-							</div>
+							
 							<div class="col-md-4 ftco-animate">
 								<a href="{{url('/skins/front/images/maja_tamna_sminka.jpg')}}" alt="model glamur profesionalno sminkanje za izlaske novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/maja_tamna_sminka.jpg')}});">
 									<div class="overlay"></div>
@@ -185,13 +172,6 @@
 							</div>
 							<div class="col-md-4 ftco-animate">
 								<a href="{{url('/skins/front/images/sminka_jovana.jpg')}}" alt="profesionalno sminkanje za mature i izlaske novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/sminka_jovana.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-									</div>
-								</a>
-							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/ekstravagantna_scenska_sminka.jpg')}}" alt="profesionalno sminkanje za mature i izlaske novi sad" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/ekstravagantna_scenska_sminka.jpg')}});">
 									<div class="overlay"></div>
 									<div class="text text-center">
 									</div>
@@ -239,13 +219,7 @@
 									</div>
 								</a>
 							</div>
-							<div class="col-md-4 ftco-animate">
-								<a href="{{url('/skins/front/images/cruelty_free_kozmetika_white_rabbit.jpg')}}" alt="cruelty free kozmetika white rabbit sminka koja nije testirana na zivotinjama" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/cruelty_free_kozmetika_white_rabbit.jpg')}});">
-									<div class="overlay"></div>
-									<div class="text text-center">
-									</div>
-								</a>
-							</div>
+							
 							<div class="col-md-4 ftco-animate">
 								<a href="{{url('/skins/front/images/amazonka.jpg')}}" alt="cruelty free kozmetika white rabbit sminka koja nije testirana na zivotinjama" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url({{url('/skins/front/images/amazonka.jpg')}});">
 									<div class="overlay"></div>
