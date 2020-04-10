@@ -17,9 +17,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Profesionalno šminkanje, Novi Sad. Sve vrste šminkanja, šminkanje za sve prilike, poznati svetski brendovi šminke koja nije testirana na životinjama. Cruelty free makeup."/>
         <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-        <!--<link href="http://allfont.net/allfont.css?fonts=playfair-display" rel="stylesheet" type="text/css" />-->
-        <!--<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">-->
-        <!--<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,700" rel="stylesheet">-->
         <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons"rel="stylesheet">
         <link rel="shortcut icon" href="{{url('/skins/front/images/logo/logo_icon.jpg')}}" type="image/x-icon"/>  <!-- LOGO BROWSER TAB -->
@@ -34,13 +31,11 @@
         <link href="{{url('/skins/front/css/jquery.timepicker.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/flaticon.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/icomoon.css')}}" rel="stylesheet" type="text/css"/>
-        
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
         <link href="{{url('/skins/front/css/style.css')}}" rel="stylesheet" type="text/css"/>
         <link href="{{url('/skins/front/css/testimonial.css')}}" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-        
         <link href="{{url('/skins/front/css/footer/Footer-with-button-logo.css')}}" rel="stylesheet" type="text/css"/>
         
 
