@@ -22,6 +22,18 @@
             <div id="testimonial-slider" class="owl-carousel" style="background:#3d3d3d;">
                 <div class="testimonial">
                     <p class="description">
+                        U momentu kada mi je šminkerka otkazala termin slučajno sam na guglu našla White rabbit makeup. Nisam poznavala Milicu i bila sam skeptična kako ću izgledati jer sam to veče imala godišnjicu mature. Šminka je bila perfektna i trajala je celu noć ! 
+                    </p>
+                    <div class="pic">
+                        <img src='/skins/front/images/tamara_p.jpg' alt="sminkanje_za_sve_prilike">
+                    </div>
+                    <div class="testimonial-prof">
+                        <h4>Tamara P.</h4>
+                        
+                    </div>
+                </div>
+                <div class="testimonial">
+                    <p class="description">
                     Prijatna, opuštena atmosfera i uz to sjajan rezultat, za svaku preporuku, prezadovoljna. Milica šminka isključivo cruelty free šminkom sto je svakako veliki plus za nas ljubitelje životinja.
                     </p>
                     <div class="pic">
@@ -46,18 +58,6 @@
                     </div>
                 </div>
 
-                <div class="testimonial">
-                    <p class="description">
-                        U momentu kada mi je šminkerka otkazala termin slučajno sam na guglu našla White rabbit makeup. Nisam poznavala Milicu i bila sam skeptična kako ću izgledati jer sam to veče imala godišnjicu mature. Šminka je bila perfektna i trajala je celu noć ! 
-                    </p>
-                    <div class="pic">
-                        <img src='/skins/front/images/tamara_p.jpg' alt="sminkanje_za_sve_prilike">
-                    </div>
-                    <div class="testimonial-prof">
-                        <h4>Tamara P.</h4>
-                        
-                    </div>
-                </div>
                 <div class="testimonial">
                     <p class="description">
                         Milica je moj šminker zauvek definitivno! Zato što ne otaljava posao, već se potpuno posveti. Zato što zajedno dogovaramo vrstu šminke za moje potrebe. I zato što je umetnik, pa zna šta su boje, kontrasti i senka :) 
@@ -99,6 +99,9 @@
                         <div class="blog-entry-logo ftco-animate">
                             <a class="author-image text img p-md-5 ftco-animate" style="background-image: url({{url('/skins/front/images/logo/kryolan_sminka_kozmetika.jpg')}});"></a>
                         </div>
+                    </div>
+                    <div class="text text-center">
+                        <h3>Kozmetika koju koristim prepoznaje se oznakom <strong>"cruelty free"</strong> i najčešće logoom zeca. Ako želiš da saznaš više o tome informiši se na stranici <u><a href="https://en.wikipedia.org/wiki/Cruelty-free_cosmetics" target="_blank" style="color:black">Wikipedia</a></u> ili me kontaktiraj na društvenim mrežama.<br></h3>
                     </div>
                     <div class="col-md-4">
                         <div class="blog-entry-logo ftco-animate">
@@ -143,7 +146,20 @@
     </div>
 </section>
 
-
+<section class="ftco-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="text text-center">
+                        <h3>Ako želiš na vreme da rezervišeš termin za šminkanje, popuni kontakt formu na <b><u><a href="{{route('front.contact')}}" style="color:black;">stranici za zakazivanje</a></b></u>, izaberi datum i bićeš kontaktirana u vezi dogovora oko detalja.</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>            
 
 @endsection
 

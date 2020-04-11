@@ -30,7 +30,7 @@
                 <div class="bg-light p-5 mycolor" style="color:black;">
                     <h5>Cena šminkanja:</h5>
                     <p> u White Rabbit-u &emsp; <b>2000rsd</b></p>
-                    <p>kod vas <i>(samo Novi Sad)</i>&emsp; <b>2500rsd</b></p>
+                    <p>kod vas (samo Novi Sad)&emsp; <b>2500rsd</b></p>
                 </div>
             </div>
             

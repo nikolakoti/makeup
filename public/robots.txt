@@ -4,4 +4,8 @@ Allow: /*.png
 Allow: /*.gif
 Allow: /*.css
 Allow: /*.js
+Allow: /skins/front/css/
+Allow: /skins/front/images/logo/
+Allow: /skins/front/images/
+Allow: /skins/front/js/
 Disallow:
